@@ -1,7 +1,11 @@
 history
 =======
 
-history generates history/changelog files for a Project
+.. image:: https://travis-ci.org/pypa/history.svg?branch=master
+    :target: https://travis-ci.org/pypa/history
+
+
+history generates history/changelog files for a project
 
 
 Discussion
