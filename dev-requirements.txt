@@ -1,0 +1,5 @@
+# Install our development requirements
+tox
+
+# Install history itself
+-e .
